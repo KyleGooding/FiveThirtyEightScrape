@@ -68,7 +68,6 @@ weekly_spreads_per_team={'49ers': [],
                         'Cardinals':[],
                         'Chargers':[],
                         'Chiefs':[],
-                        'Commanders':[], 
                         'Colts':[],
                         'Cowboys':[],
                         'Dolphins':[],
@@ -90,6 +89,7 @@ weekly_spreads_per_team={'49ers': [],
                         'Texans':[],
                         'Titans':[],
                         'Vikings':[],
+                        'Washington':[],
                         }
 
 fields=['teams'] 
